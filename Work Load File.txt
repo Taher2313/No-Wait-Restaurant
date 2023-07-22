@@ -1,0 +1,46 @@
+Load File of functions:
+
+Taher Mohamed:
+1)	RunSimulation
+2)	Generate_R
+3)	heapify
+4)	heapSortForWaitOrders
+5)	Dynamic_Deallocation
+6)	DrawingAllWaitingOrders
+
+
+Reem Emad:
+1)      AutopromotionOfOrders
+2)      OutputFileOptimization
+3)      MovingOrdersFromServingToDone
+4)      operator < (Order)
+5)      operator < (Cook)
+6)      CalcPriortyVIPEqn
+
+
+Bassant AbdelAzim:
+1)	GetProOrder
+2)	ReduceMedicalRest
+3)	AssigningOrdersToCooks
+4)	DrawAssignedCooksInLastTimestep
+5)	PrintMessage
+6)	Print_Injured_Cooks
+
+
+Esraa Gamal:
+1)	Reduce_avaliblity_cook
+2)	serve_waiting_vip
+3)	Print_Cooks_In_break 
+4)	Print_number_of_avalible_cook
+5)	FinshingOfDrawingAllDoneOrders
+6)	DrawAllCooks
+
+
+
+
+
+
+
+
+
+
